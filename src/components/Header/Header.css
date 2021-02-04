@@ -1,0 +1,10 @@
+.navStyle a{
+    text-decoration: none;
+    padding: 0 10px;
+    color: white;
+    letter-spacing: 1px;
+}
+
+.navStyle a:hover{
+    color: rgb(233, 233, 233);
+}
